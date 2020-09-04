@@ -1,31 +1,30 @@
 # Basic-Data-Analysis-and-Visualization
 
-#### The fundamentals of data analysis and visualization in python. Here are some of the most important python tools for data science, Python in conjunction with scientific computing and graphing libraries to analyze data and make presentable data visualizations.
+**_The fundamentals of data analysis and visualization in python. Here are some of the most important python tools for data science, Python in conjunction with scientific computing and graphing libraries to analyze data and make presentable data visualizations._**
 
-This course is designed for both beginners with some basic programming experience or experienced developers
+## Brief Overview
 
-looking to explore the world of data science.
+### Data-Analysis Libraries 
 
-So let's see a brief overview of the topics covered in this course.
+- **Numpy**
 
-We'll be covering none pi.
+Help in creating and manipulating arrays. It is one of the core python package.
 
-Pandas, matplotlib, Seabourne and Plomley.
+- **Pandas**
 
-We'll begin by learning how to create and manipulate arrays with NUM Pi, which is the core python package
+ Helps in reading from files and structure with series and data frames. 
 
-for scientific computing.
+### Data-Visualization Libraries
 
-Next, we'll learn the basics of pandas.
+- **Matplotlib**
 
-We use pandas to read in data from files and structure it with series and data frames.
+Helps in creating various types of charts
 
-We'll also learn how to do some quick analysis on our data.
+- **Seaborn**
 
-We'll look at how to create various types of charts with matplotlib and then customize them to be more
+Helps in customizing them to be more attractive and modern looking.
 
-attractive and modern with the use of Seabourne.
+- **Plotly**
 
-Finally, we'll take our charts to the next level by making them interactive.
+Helps in taking our charts to the next level by making them interactive.
 
-Using Plomley, which is currently one of the leading data science tools.
