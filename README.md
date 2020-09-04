@@ -1,6 +1,6 @@
 # Basic-Data-Analysis-and-Visualization
 
-**_The fundamentals of data analysis and visualization in python. Here are some of the most important python tools for data science, Python in conjunction with scientific computing and graphing libraries to analyze data and make presentable data visualizations._**
+**_Here are some of the most important python tools for data science, Python in conjunction with scientific computing and graphing libraries to analyze data and make presentable data visualizations._**
 
 ## Brief Overview
 
